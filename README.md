@@ -4,7 +4,7 @@
 - Amanda Drielly Pires Venceslau
 
 ## Projeto 2 - Gerenciador de Competições
-- Protótipo: [FileManager](https://www.figma.com/file/BxJYFRArPLbXUK3TPoMqve/ProjetoIntegrador?node-id=0%3A1)
+- Protótipo: [SIRIUS](https://www.figma.com/file/BxJYFRArPLbXUK3TPoMqve/ProjetoIntegrador?node-id=0%3A1)
 
 ### Componentes Curriculares Integralizados
 - CRT0025 - Programação Funcional
