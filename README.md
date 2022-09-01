@@ -4,6 +4,7 @@
 - Amanda Drielly Pires Venceslau
 
 ## Projeto 3 - Gerenciador de Competições
+- Esteira de Tasks: [ESTEIRA](https://github.com/users/reinaldosales/projects/2)
 - Protótipo: [SIRIUS](https://www.figma.com/file/BxJYFRArPLbXUK3TPoMqve/ProjetoIntegrador?node-id=0%3A1)
 
 ### Componentes Curriculares Integralizados
