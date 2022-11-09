@@ -1,0 +1,15 @@
+html {
+    --white-glogal: #F7F7FF;
+    --light-blue: #BDD5EA;
+    --blue: #577399;
+    --gray: #5A5A66;
+    --dark: #2A2B2E;
+}
+
+body {
+    background-color: var(--white-glogal);
+}
+
+.sirius-font-blue {
+    color: var(--blue);
+}

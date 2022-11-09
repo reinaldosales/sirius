@@ -1,0 +1,24 @@
+.card-left>img {
+    height: 100vh;
+}
+
+.login {
+    width: 18.75rem;
+}
+
+.btn-login {
+    background-color: var(--blue) !important;
+}
+
+.btn-signin {
+    background-color: var(--gray) !important;
+}
+
+.page-login {
+    position: absolute;
+}
+
+.page-signin {
+    position: absolute;
+    display: none;
+}
